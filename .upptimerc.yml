@@ -66,6 +66,103 @@ sites:
   - name: terrameridiana
     url: https://www.terrameridiana.com
     
+ - name: 2ndhousemarbella
+   url: https://www.2ndhousemarbella.com  
+ - name: absoluteprestige
+   url: https://www.absoluteprestige.com  
+ - name: altiusmarbella
+   url: https://www.altiusmarbella.com  
+ - name: andadev
+   url: https://www.andadev.com  
+ - name: azuremarbella
+   url: https://www.azuremarbella.es  
+ - name: casona6lunas
+   url: https://www.casona6lunas.com  
+ - name: cleoxinversiones
+   url: https://www.cleoxinversiones.com  
+ - name: cosmopolitan-properties
+   url: https://www.cosmopolitan-properties.com  
+ - name: costadelsol365
+   url: https://www.costadelsol365.es  
+ - name: crownmarbella
+   url: https://www.crownmarbella.com  
+ - name: elbosque8
+   url: https://www.elbosque8.es  
+ - name: elbosque9
+   url: https://www.elbosque9.es  
+ - name: elmiradormarbella
+   url: https://www.elmiradormarbella.es  
+ - name: elnidomarbella
+   url: https://www.elnidomarbella.es  
+ - name: eurojavea
+   url: https://www.eurojavea.com  
+ - name: gabrielarecalde
+   url: https://www.gabrielarecalde.com  
+ - name: gibraltarmls
+   url: https://www.gibraltarmls.com  
+ - name: golden7
+   url: https://www.golden7.es  
+ - name: hiddejames
+   url: https://www.hiddejames.com  
+ - name: homewatch
+   url: https://www.homewatch.es  
+ - name: inmoba
+   url: https://www.inmoba.com  
+ - name: inmobalia
+   url: https://www.inmobalia.com  
+ - name: lazagaleta19
+   url: https://www.lazagaleta19.com  
+ - name: luciapou
+   url: https://www.luciapou.com  
+ - name: magna-estates
+   url: https://www.magna-estates.com  
+ - name: malagamls
+   url: https://www.malagamls.com  
+ - name: marbella-ev
+   url: https://www.marbella-ev.com  
+ - name: me-estates
+   url: https://www.me-estates.com  
+ - name: mojoestates
+   url: https://www.mojoestates.com  
+ - name: njmarbella
+   url: https://www.njmarbella.com  
+ - name: noll-sotogrande
+   url: https://www.noll-sotogrande.com  
+ - name: nordicamarbella
+   url: https://www.nordicamarbella.com  
+ - name: privateproperty
+   url: https://www.privateproperty.es  
+ - name: propertytop
+   url: https://www.propertytop.com  
+ - name: sbe-realty
+   url: https://www.sbe-realty.com  
+ - name: selectionmed
+   url: https://www.selectionmed.com  
+ - name: sierrablanca37
+   url: https://www.sierrablanca37.com  
+ - name: solvilla
+   url: https://www.solvilla-no  
+ - name: sotograndeigp
+   url: https://www.sotograndeigp.es  
+ - name: sotograndemls
+   url: https://www.sotograndemls.com  
+ - name: sotogrande-properties
+   url: https://www.sotogrande-properties.com  
+ - name: stunningfincas
+   url: https://www.stunningfincas.com  
+ - name: terramarbella
+   url: https://www.terramarbella.com  
+ - name: teseoestate
+   url: https://www.teseoestate.com  
+ - name: villa-angulo-marbella
+   url: https://www.villa-angulo-marbella.com  
+ - name: villamayor-one
+   url: https://www.villamayor-one.com  
+ - name: villasfincas
+   url: https://www.villasfincas.com  
+ - name: villa-verano-marbella
+   url: https://www.villa-verano-marbella.com
+   
 assignees:
   - torresgol10
   
