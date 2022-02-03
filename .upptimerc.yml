@@ -5,67 +5,66 @@ repo: upptime # The name of this repository
 user-agent: Github Upptime
 
 sites:
- - name: banusproperty
+  - name: banusproperty
     url: www.banusproperty.com  
- - name: bemontmarbella
+  - name: bemontmarbella
     url: www.bemontmarbella.com  
- - name: benarrochrealestate
+  - name: benarrochrealestate
     url: www.benarrochrealestate.com  
- - name: bhhsmarbella
+  - name: bhhsmarbella
     url: www.bhhsmarbella.com  
- - name: callumswanrealty
+  - name: callumswanrealty
     url: www.callumswanrealty.com  
- - name: campomarspain
+  - name: campomarspain
     url: www.campomarspain.com  
- - name: costacoveta
+  - name: costacoveta
     url: www.costacoveta.com  
- - name: deluxestates
+  - name: deluxestates
     url: www.deluxestates.es  
- - name: dmproperties
+  - name: dmproperties
     url: www.dmproperties.com  
- - name: drumelia
+  - name: drumelia
     url: www.drumelia.com  
- - name: excellentspain
+  - name: excellentspain
     url: www.excellentspain.com  
- - name: futurehomesspain
+  - name: futurehomesspain
     url: www.futurehomesspain.com  
- - name: gilmar-costadelsol
+  - name: gilmar-costadelsol
     url: www.gilmar-costadelsol.com  
- - name: holmesotogrande
+  - name: holmesotogrande
     url: www.holmesotogrande.com  
- - name: inmo-andalucia
+  - name: inmo-andalucia
     url: www.inmo-andalucia.com  
- - name: ivardahl
+  - name: ivardahl
     url: www.ivardahl.com  
- - name: keyrealestates
+  - name: keyrealestates
     url: www.keyrealestates.com  
- - name: lacostamarbella
+  - name: lacostamarbella
     url: www.lacostamarbella.com  
- - name: libehomes
+  - name: libehomes
     url: www.libehomes.com  
- - name: lorainedezara
+  - name: lorainedezara
     url: www.lorainedezara.com  
- - name: marbella-hills-homes
+  - name: marbella-hills-homes
     url: www.marbella-hills-homes.com  
- - name: marbellauniqueproperties
+  - name: marbellauniqueproperties
     url: www.marbellauniqueproperties.com  
- - name: mpdunne
+  - name: mpdunne
     url: www.mpdunne.com  
- - name: nevadomarbella
+  - name: nevadomarbella
     url: www.nevadomarbella.com  
- - name: prestige-expo
+  - name: prestige-expo
     url: www.prestige-expo.com  
- - name: propertypartners
+  - name: propertypartners
     url: www.propertypartners.es  
- - name: purelivingproperties
+  - name: purelivingproperties
     url: www.purelivingproperties.com  
- - name: seville-sothebysrealty
+  - name: seville-sothebysrealty
     url: www.seville-sothebysrealty.com  
- - name: spainsecondhome
+  - name: spainsecondhome
     url: www.spainsecondhome.com  
- - name: terrameridiana
+  - name: terrameridiana
     url: www.terrameridiana.com
-
 assignees:
   - torresgol10
   
