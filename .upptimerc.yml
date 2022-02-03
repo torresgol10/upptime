@@ -67,9 +67,6 @@ sites:
     url: https://www.terrameridiana.com
 
 #Separacion
-
-#  - name: 2ndhousemarbella
-#    url: https://www.2ndhousemarbella.com  
   - name: absoluteprestige
     url: https://www.absoluteprestige.com  
   - name: altiusmarbella
