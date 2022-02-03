@@ -68,8 +68,8 @@ sites:
 
 #Separacion
 
-  - name: 2ndhousemarbella
-    url: https://www.2ndhousemarbella.com  
+#  - name: 2ndhousemarbella
+#    url: https://www.2ndhousemarbella.com  
   - name: absoluteprestige
     url: https://www.absoluteprestige.com  
   - name: altiusmarbella
@@ -105,7 +105,7 @@ sites:
   - name: golden7
     url: https://www.golden7.es  
   - name: hiddejames
-    url: https://www.hiddejames.com  
+    url: https://www.hidde-james.com  
   - name: homewatch
     url: https://www.homewatch.es  
   - name: inmoba
@@ -143,7 +143,7 @@ sites:
   - name: sierrablanca37
     url: https://www.sierrablanca37.com  
   - name: solvilla
-    url: https://www.solvilla-no  
+    url: https://www.solvilla.es  
   - name: sotograndeigp
     url: https://www.sotograndeigp.es  
   - name: sotograndemls
