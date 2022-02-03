@@ -34,7 +34,7 @@ sites:
   - name: holmesotogrande
     url: https://www.holmesotogrande.com  
   - name: inmo-andalucia
-    url: https://www.inmo-andalucia.com  
+    url: http://www.inmo-andalucia.com  
   - name: ivardahl
     url: https://www.ivardahl.com  
   - name: keyrealestates
