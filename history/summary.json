@@ -257,18 +257,18 @@
     "icon": "https://favicons.githubusercontent.com/www.inmo-andalucia.com",
     "slug": "inmo-andalucia",
     "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "uptime": "98.67%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
     "time": 852,
     "timeDay": 852,
     "timeWeek": 852,
     "timeMonth": 852,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2022-02-03": 0
+      "2022-02-03": 1
     }
   },
   {
