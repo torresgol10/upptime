@@ -851,19 +851,17 @@
     "icon": "https://favicons.githubusercontent.com/www.hidde-james.com",
     "slug": "hiddejames",
     "status": "up",
-    "uptime": "14.34%",
-    "uptimeDay": "14.34%",
-    "uptimeWeek": "14.34%",
-    "uptimeMonth": "14.34%",
-    "uptimeYear": "14.34%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1362,
     "timeDay": 1362,
     "timeWeek": 1362,
     "timeMonth": 1362,
     "timeYear": 1362,
-    "dailyMinutesDown": {
-      "2022-02-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "homewatch",
@@ -1195,19 +1193,17 @@
     "icon": "https://favicons.githubusercontent.com/www.solvilla.es",
     "slug": "solvilla",
     "status": "up",
-    "uptime": "8.87%",
-    "uptimeDay": "8.87%",
-    "uptimeWeek": "8.87%",
-    "uptimeMonth": "8.87%",
-    "uptimeYear": "8.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 911,
     "timeDay": 911,
     "timeWeek": 911,
     "timeMonth": 911,
     "timeYear": 911,
-    "dailyMinutesDown": {
-      "2022-02-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sotograndeigp",
