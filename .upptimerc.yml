@@ -2,7 +2,7 @@
 owner: torresgol10 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
-user-agent: Github-Upptime
+user-agent: "Github-Upptime"
 
 sites:
   - name: banusproperty
