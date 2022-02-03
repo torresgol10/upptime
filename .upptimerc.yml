@@ -2,6 +2,8 @@
 owner: torresgol10 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+user-agent: Github Upptime
+
 sites:
   - name: Google
     url: https://www.google.com
@@ -18,6 +20,7 @@ assignees:
   - torresgol10
   
 status-website:
+  theme: night
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
