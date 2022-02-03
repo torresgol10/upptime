@@ -5,16 +5,66 @@ repo: upptime # The name of this repository
 user-agent: Github Upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Dm Properties
-    url: https://www.dmproperties.com
+ - name: banusproperty
+    url: www.banusproperty.com  
+ - name: bemontmarbella
+    url: www.bemontmarbella.com  
+ - name: benarrochrealestate
+    url: www.benarrochrealestate.com  
+ - name: bhhsmarbella
+    url: www.bhhsmarbella.com  
+ - name: callumswanrealty
+    url: www.callumswanrealty.com  
+ - name: campomarspain
+    url: www.campomarspain.com  
+ - name: costacoveta
+    url: www.costacoveta.com  
+ - name: deluxestates
+    url: www.deluxestates.es  
+ - name: dmproperties
+    url: www.dmproperties.com  
+ - name: drumelia
+    url: www.drumelia.com  
+ - name: excellentspain
+    url: www.excellentspain.com  
+ - name: futurehomesspain
+    url: www.futurehomesspain.com  
+ - name: gilmar-costadelsol
+    url: www.gilmar-costadelsol.com  
+ - name: holmesotogrande
+    url: www.holmesotogrande.com  
+ - name: inmo-andalucia
+    url: www.inmo-andalucia.com  
+ - name: ivardahl
+    url: www.ivardahl.com  
+ - name: keyrealestates
+    url: www.keyrealestates.com  
+ - name: lacostamarbella
+    url: www.lacostamarbella.com  
+ - name: libehomes
+    url: www.libehomes.com  
+ - name: lorainedezara
+    url: www.lorainedezara.com  
+ - name: marbella-hills-homes
+    url: www.marbella-hills-homes.com  
+ - name: marbellauniqueproperties
+    url: www.marbellauniqueproperties.com  
+ - name: mpdunne
+    url: www.mpdunne.com  
+ - name: nevadomarbella
+    url: www.nevadomarbella.com  
+ - name: prestige-expo
+    url: www.prestige-expo.com  
+ - name: propertypartners
+    url: www.propertypartners.es  
+ - name: purelivingproperties
+    url: www.purelivingproperties.com  
+ - name: seville-sothebysrealty
+    url: www.seville-sothebysrealty.com  
+ - name: spainsecondhome
+    url: www.spainsecondhome.com  
+ - name: terrameridiana
+    url: www.terrameridiana.com
 
 assignees:
   - torresgol10
